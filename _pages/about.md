@@ -92,7 +92,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 <span class='anchor' id='SOI'></span>
 
 **Target or Distractor? Rethinking Similar Object Interference in Single Object Tracking**<br>
-[Y. Wang](https://github.com/updateforever), ***<font color=DarkRed>Shiyu Hu</font>***, D. Zhang, [M. Wu](https://github.com/wmeiqi), [T. Yao](http://tingyao.deepfun.club/), [Y. Wang](https://scholar.google.com/citations?user=3nMDEBYAAAAJ), [L. Chen](https://sie.bit.edu.cn/szdw/jsml/ldjsyjsj/zgzcl/06c26b3ebaae4db981aaa388c660c8b5.htm), [X. Zhao](https://www.xinzhaoai.com/) <br>
+[Y. Wang](https://github.com/updateforever), [Shiyu Hu](https://huuuuusy.github.io/), D. Zhang, ***<font color=DarkRed>Meiqi Wu</font>***, [T. Yao](http://tingyao.deepfun.club/), [Y. Wang](https://scholar.google.com/citations?user=3nMDEBYAAAAJ), [L. Chen](https://sie.bit.edu.cn/szdw/jsml/ldjsyjsj/zgzcl/06c26b3ebaae4db981aaa388c660c8b5.htm), [X. Zhao](https://www.xinzhaoai.com/) <br>
 *[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (CCF-B Journal, IF=8.4, Under Review)*<br>
 📌 Visual Object Tracking 📌 Similar Object Interference 📌 Data Mining<br>
 
@@ -107,7 +107,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 <span class='anchor' id='MemVLT'></span>
 
 **Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**<br>
-[X. Feng](https://github.com/XiaokunFeng), [X. Li](https://xuchen-li.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, D. Zhang, [M. Wu](https://github.com/wmeiqi), [X. Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)  <br>
+[X. Feng](https://github.com/XiaokunFeng), [X. Li](https://xuchen-li.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), D. Zhang, ***<font color=DarkRed>Meiqi Wu</font>***, [X. Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)  <br>
 *[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/) (CCF-A Conference, Under Review)*<br>
 📌 Visual Language Tracking 📌 Human-like Memory Modeling 📌 Adaptive Prompts<br>
 
@@ -119,17 +119,17 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 # 📝 Patents
 * **A psychological sandbox analysis method and system**<br>
   (一种心理沙盘分析方法和系统)<br>
-  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Tianyi Gao, Yu Jiang, **Meiqi Wu**, Ruolin Zheng<br>
+  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Tianyi Gao, Yu Jiang, ***<font color=DarkRed>Meiqi Wu</font>***, Ruolin Zheng<br>
 [[Link](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)]
 
 * **Knowledge base construction and analysis methods, devices and equipment based on electronic psychological sandbox**<br>
   (基于电子心理沙盘的知识库构建及分析方法、装置、设备)<br>
-  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Yu Jiang, Yanan Lu, **Meiqi Wu**, Chengxin Yan<br>
+  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Yu Jiang, Yanan Lu, ***<font color=DarkRed>Meiqi Wu</font>***, Chengxin Yan<br>
 [[Link](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)]
 
 * **Psychological assessment methods and systems based on intelligent analysis**<br>
   (基于智能分析的心理评估方法及系统)<br>
-  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Shiyu Zhang, Yu Jiang, Xiaona Jia, **Meiqi Wu**<br>
+  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Shiyu Zhang, Yu Jiang, Xiaona Jia, ***<font color=DarkRed>Meiqi Wu</font>***<br>
   [[Link](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)]
 
 
