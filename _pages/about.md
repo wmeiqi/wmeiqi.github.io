@@ -117,9 +117,25 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 
 # 📝 Patents
+* **A psychological sandbox analysis method and system**<br>
+  (一种心理沙盘分析方法和系统)<br>
+  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Tianyi Gao, Yu Jiang, **Meiqi Wu**, Ruolin Zheng<br>
+[[Link](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)]
+
+* **Knowledge base construction and analysis methods, devices and equipment based on electronic psychological sandbox**<br>
+  (基于电子心理沙盘的知识库构建及分析方法、装置、设备)<br>
+  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Yu Jiang, Yanan Lu, **Meiqi Wu**, Chengxin Yan<br>
+[[Link](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)]
+
+* **Psychological assessment methods and systems based on intelligent analysis**<br>
+  (基于智能分析的心理评估方法及系统)<br>
+  Kaiqi Huang, Yunfeng Kang, Xiaotang Chen, Shiyu Zhang, Yu Jiang, Xiaona Jia, **Meiqi Wu**<br>
+  [[Link](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)]
 
 
-# 📝 Software copyright
+<!-- # 📝 Software copyright -->
+
+# 🌟 Maintained Projects
 
 # 🎖 Honors and Awards
 * 2019, 2020, 2021, 2022, 2023 **Merit Student of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学三好学生</font>)**
