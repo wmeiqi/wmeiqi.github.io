@@ -9,14 +9,20 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Patents"
+    url: "/#-Patents"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "For More Info"
+    url: "/#-For More Info"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Collaborators"
+    url: "/#-Collaborators"
+
+   - title: "Contact"
+    url: "/#-Contact"
