@@ -38,6 +38,7 @@ My research interest includes computer vision and human-computer interaction. I�
 
 # 📝 Publications 
 
+## ✅ Acceptance
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/AWCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='AWCV'></span>
@@ -82,6 +83,19 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Dataset**](http://videocube.aitestunion.com/downloads)]
 </div>
 </div>
+
+## ☑️ Ongoing Research
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**
+
+[Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://wmeiqi.github.io/), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
+</div>
+</div>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,12 +150,28 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program, 2023-->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+**2021.09 -** : Ph.D. in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/)
+- **Major:** Computer Applied Technology
+- **Supervisor:** [Prof. Weiqiang Wang](https://people.ucas.edu.cn/~wqwang) (ACM Member, IEEE Member)
+- **Thesis Title:** Researches of Video-based Air-Writing Dataset Construction and Recognition Algorithm
+
+**2018.09 - 2021.06** : M.S. in [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/) and [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/)
+- **Major:** Computer Applied Technology
+- **Supervisor:** [Prof. Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi) (IAPR Fellow, IEEE Senior Member)
+- **Thesis Title:** Research of Artificial Intelligence for Psychology
+- **Thesis Defense Grade:** Excellent
+
+**2014.09 - 2018.06** : B.E. in College of Computer Science and Engineering, [Shandong University of Science and Technology (SDUST)](https://en.sdust.edu.cn/)
+- **Major:** Software Engineering
+  
+**2015.09 - 2018.06** : B.A. in College of Economics & Management, [Shandong University of Science and Technology (SDUST)](https://en.sdust.edu.cn/)
+- **Minor:** Accounting
+  
+
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 
 # 🔗 For More Info
