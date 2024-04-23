@@ -86,7 +86,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 ## ☑️ Ongoing Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">PRCV 2024</div><img src='../../images/sketch.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">PRCV 2024</div><img src='../../images/sketch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='SOI'></span>
