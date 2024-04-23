@@ -86,15 +86,15 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 ## ☑️ Ongoing Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">PRCV 2024</div><img src='../../images/SOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">PRCV 2024</div><img src='../../images/Sketch.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='SOI'></span>
 
-**Target or Distractor? Rethinking Similar Object Interference in Single Object Tracking**<br>
-[Y. Wang](https://github.com/updateforever), [Shiyu Hu](https://huuuuusy.github.io/), D. Zhang, ***<font color=DarkRed>Meiqi Wu</font>***, [T. Yao](http://tingyao.deepfun.club/), [Y. Wang](https://scholar.google.com/citations?user=3nMDEBYAAAAJ), [L. Chen](https://sie.bit.edu.cn/szdw/jsml/ldjsyjsj/zgzcl/06c26b3ebaae4db981aaa388c660c8b5.htm), [X. Zhao](https://www.xinzhaoai.com/) <br>
+**VSM-LLM: Visual-Semantic Multi-modal Depression Assessment for Drawing Projection Test based on LLM**<br>
+***<font color=DarkRed>Meiqi Wu</font>***, Yanxuan Kang, [Xuchen Li](https://xuchen-li.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), Xiaotang Chen, Yunfeng Kang, Weiqiang Wang, Kaiqi Huang<br>
 *[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (CCF-B Journal, IF=8.4, Under Review)*<br>
-📌 Visual Object Tracking 📌 Similar Object Interference 📌 Data Mining<br>
+📌 LLM 📌 Mental Assessment 📌 Cognitive Science<br>
 
 </div>
 </div>
