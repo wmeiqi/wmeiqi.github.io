@@ -29,10 +29,10 @@ My research interest includes computer vision and human-computer interaction. I�
 
 
 # 🔥 News
-- **2024.04**: &nbsp;📣📣We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
-- **2024.04**: &nbsp;📝📝One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
-- **2024.04**: &nbsp;📝📝 One first author paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, CCF-B Journal, IF=8.4).
-- **2023.09**: &nbsp;📝📝 One paper has been accepted by the 37th Conference on Neural Information Processing Systems (NeurIPS, CCF-A Conference, Poster).
+- **2024.04**:&nbsp;📣📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
+- **2024.04**:&nbsp;🎉🎉 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
+- **2024.04**:&nbsp;🎉🎉 One first author paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, CCF-B Journal, IF=8.4).
+- **2023.09**:&nbsp;🎉🎉 One paper has been accepted by the 37th Conference on Neural Information Processing Systems (NeurIPS, CCF-A Conference, Poster).
 
    <!-- - *2024.04*: &nbsp;&nbsp;🎉🎉 📣📣We will present our work (Global Instance Tracking (GIT)) at TPAMI2023 during the VALSE2024 poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in object tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our 🪧 Poster for more information). - *2024.04*: &nbsp;🎉🎉 One paper has been accepted by the 3rd Workshop on Vision Datasets Understanding and DataCV Challenge in CVPR 2024 (CVPRW, Workshop in CCF-A Conference, Oral). -->
 
