@@ -58,7 +58,7 @@ TCSVT 2024 (CCF-B Journal, IF=8.4): **[IEEE Transactions on Circuits and Systems
   
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
 
-[Xuchen Li](https://xuchen-li.github.io/), [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), **Meiqi Wu**(https://github.com/wmeiqi), Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+[Xuchen Li](https://xuchen-li.github.io/), [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), <a herf = "https://github.com/wmeiqi"> **Meiqi Wu** </a>, Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
 </div>
