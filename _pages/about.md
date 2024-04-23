@@ -98,8 +98,25 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* 2019, 2020, 2021, 2022, 2023 **Merit Student of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学三好学生</font>)**
+* 2019 **National Third Prize**, <a herf="http://ucasstar.sie.ac.cn"> Chinese Academy of Sciences University (UCAS) Cup Innovation and Entrepreneurship Competition</a>
+* 2018 **Outstanding Graduates of Shandong Province (<font face="楷体">山东省优秀毕业生</font>)**
+* 2018 **Outstanding Graduates of Shandong University of Sicence and Technology (<font face="楷体">山东科技大学优秀毕业生</font>)**
+* 2015, 2016, 2017, 2018 **Merit Student of Shandong University of Sicence and Technology (<font face="楷体">山东科技大学三好学生</font>)**
+
+<!--* **China National Scholarship (<font face="楷体">本科生国家奖学金</font>)**, My Rank: 1/455 (0.22%), at BUPT, by Ministry of Education of China, 2023
+* **China National Scholarship (<font face="楷体">本科生国家奖学金</font>)**, My Rank: 2/430 (0.47%), at BUPT, by Ministry of Education of China, 2022
+* **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
+* **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2023
+* **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
+* **China National Encouragement Scholarship**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
+* **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
+* **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation Contest (team leader), 2022
+* **Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022
+* **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader), 2023
+* **National Third Prize**, China Robotics and Artificial Intelligence Competition, 2023
+* **National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader), 2023
+* **National Level Project**, College Students' Innovation and Entrepreneurship Training Program, 2023-->
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
