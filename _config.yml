@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Meiqi Wu"
-description              : "Meiqi Wu dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Major in Computer Vision, Human-computer Interaction and Intelligent Evaluation Technique. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Meiqi Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Meiqi Wu College"
+  bio              : "Incoming Ph.D. student at the University of Chinese Academy of Sciences (UCAS)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
