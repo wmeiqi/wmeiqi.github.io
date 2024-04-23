@@ -116,7 +116,8 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 
 
-# 📝 Patent
+# 📝 Patents
+
 
 # 📝 Software copyright
 
@@ -162,16 +163,16 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 * **Thesis Title:** Researches of Video-based Air-Writing Dataset Construction and Recognition Algorithm
 
 **2018.09 - 2021.06** : M.S. in [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/) and [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/)
-- **Major:** Computer Applied Technology
-- **Supervisor:** [Prof. Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi) (IAPR Fellow, IEEE Senior Member)
-- **Thesis Title:** Research of Artificial Intelligence for Psychology
-- **Thesis Defense Grade:** Excellent
+* **Major:** Computer Applied Technology
+* **Supervisor:** [Prof. Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi) (IAPR Fellow, IEEE Senior Member)
+* **Thesis Title:** Research of Artificial Intelligence for Psychology
+* **Thesis Defense Grade:** Excellent
 
 **2014.09 - 2018.06** : B.E. in College of Computer Science and Engineering, [Shandong University of Science and Technology (SDUST)](https://en.sdust.edu.cn/)
-- **Major:** Software Engineering
+* **Major:** Software Engineering
   
 **2015.09 - 2018.06** : B.A. in College of Economics & Management, [Shandong University of Science and Technology (SDUST)](https://en.sdust.edu.cn/)
-- **Minor:** Accounting
+* **Minor:** Accounting
   
 
 <!--# 💬 Invited Talks
@@ -195,15 +196,15 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 - [**Shiyu Hu**](https://github.com/huuuuusy), Ph.D. student at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
 - [**Yuzhong Zhao**](https://github.com/callsys), Ph.D. student at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), focusing on computer vision
-- [**Yuanqiang Cai**](https://teacher.bupt.edu.cn/caiyuanqiang/zh_CN/index.htm) is a Lecturer (University) and Master Tutor at the State Key Laboratory Of Networking And Switching Technology, Beijing University of Posts and Telecommunications and at the School of Computer Science, Beijing University of Posts and Telecommunications.
-- [**Xuchen Li**](https://xuchen-li.github.io/), B.E. student at [Beijing University of Posts and Telecommunications (BUPT)](https://xuchen-li.github.io/) and incoming Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), focusing on visual object tracking, visual language tracking and AI4Science.
+- [**Yuanqiang Cai**](https://teacher.bupt.edu.cn/caiyuanqiang/zh_CN/index.htm) is a Lecturer (University) and Master Tutor at the State Key Laboratory Of Networking And Switching Technology, Beijing University of Posts and Telecommunications and at the School of Computer Science, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/#).
+- [**Xuchen Li**](https://xuchen-li.github.io/), B.E. student at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/#) and incoming Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), focusing on visual object tracking, visual language tracking and AI4Science.
 - **Fangchao Liu**, Ph.D. student at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/zh-hant), focusing on computer vision and AI4Science.
 - **Di Shang**, Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), focusing on computer vision, spiking neural network and few-shot learning.
 - **Yaxuan Kang**, design researcher, research assistant and interaction designer at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), focusing on human-computer interaction.
 - [**Yipei Wang**](https://github.com/updateforever), M.S. and incoming Ph.D. student at the [Southeast University](https://www.seu.edu.cn/), focusing on visual object tracking and recommendation system.
 - [**Xiaokun Feng**](https://github.com/XiaokunFeng), Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), focusing on visual object tracking, visual language tracking and AI4Science.
 - **Dailing Zhang**, Ph.D. student at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), focusing on visual object tracking, visual language tracking and AI4Science.
-- - [**Jiahui Gao**](https://sumilergao.github.io/jiahuig.hku/), Ph.D. at the [University of Hong Kong (HKU)](https://www.hku.hk/), focusing on natural language processing, including Pre-trained Language Modeling (PLM), Automatic Machining Learning (AutoML), and Multi-Modal (vision-language) learning.
+  [**Jiahui Gao**](https://sumilergao.github.io/jiahuig.hku/), Ph.D. at the [University of Hong Kong (HKU)](https://www.hku.hk/), focusing on natural language processing, including Pre-trained Language Modeling (PLM), Automatic Machining Learning (AutoML), and Multi-Modal (vision-language) learning.
 - **Yanyao Zhou**, Ph.D. student at the [University of Hong Kong (HKU)](https://www.hku.hk/), focusing on cognitive science and psychology.
 - **Yiping Ma**, Ph.D. student at the [East China Normal University](https://www.ecnu.edu.cn/), focusing on intelligent education technique and human-computer interaction.
 
