@@ -102,6 +102,19 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 * 2019 **National Third Prize**, <a herf="http://ucasstar.sie.ac.cn"> Chinese Academy of Sciences University (UCAS) Cup Innovation and Entrepreneurship Competition</a>
 * 2018 **Outstanding Graduates of Shandong Province (<font face="楷体">山东省优秀毕业生</font>)**
 * 2018 **Outstanding Graduates of Shandong University of Sicence and Technology (<font face="楷体">山东科技大学优秀毕业生</font>)**
+* 2018 **Top-notch scientific and technological innovation talents of Shandong University of Science and Technology(<font face="楷体">山东科技大学科技创新拔尖人才</font>)**
+* 2017 **National First Prize**, MathorCup College Student Mathematical Modeling Challenge
+* 2017 **National Second Prize**, "Certification Cup" Mathematics China Mathematical Modeling Network Challenge
+* 2017 **Honourable Metion**, Mathematical Contest In Modeling
+* 2016 **National Third Prize**, APMCM Asia-Pacific College Student Mathematical Modeling Competition
+* 2016 **National Third Prize**, the 14th Qilu Software Design Competition
+* 2016 **National Third Prize**, Qingdao College Mathematical Modeling Invitational Competition
+* 2016 **National Encouragement scholarship (<font face="楷体">国家励志奖学金</font>)**
+* 2016 **Blu-ray Scholarship (<font face="楷体">蓝光奖学金</font>)**
+* 2015 **Outstanding Volunteer (<font face="楷体">优秀志愿者</font>)**
+* 2015 **Outstanding cadres of Student Association (<font face="楷体">学生协会优秀干事</font>)**
+* 2015, 2016, 2017, 2018 **The First Prize Scholarship (<font face="楷体">一等奖学金</font>)**
+* 2015, 2016, 2017, 2018 **Excellent League Member of Shandong University of Sicence and Technology (<font face="楷体">山东科技大学优秀共青团员</font>)**
 * 2015, 2016, 2017, 2018 **Merit Student of Shandong University of Sicence and Technology (<font face="楷体">山东科技大学三好学生</font>)**
 
 <!--* **China National Scholarship (<font face="楷体">本科生国家奖学金</font>)**, My Rank: 1/455 (0.22%), at BUPT, by Ministry of Education of China, 2023
