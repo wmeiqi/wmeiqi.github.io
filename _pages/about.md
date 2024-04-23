@@ -38,7 +38,38 @@ My research interest includes computer vision and human-computer interaction. I‚
 
 # üìù Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='DTLLM'></span>
+  
+**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
+
+**Xuchen Li**, [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://github.com/wmeiqi), Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/MGIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='MGIT'></span>
+  
+**A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
+
+[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
+  [[**Paper**](https://xuchen-li.github.io/files/MGIT.pdf)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
+  [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
+  [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
+  [[**Platform**](http://videocube.aitestunion.com/)]
+  [[**Toolkit**](https://github.com/huuuuusy/videocube-toolkit)]
+  [[**Dataset**](http://videocube.aitestunion.com/downloads)]
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -50,7 +81,7 @@ My research interest includes computer vision and human-computer interaction. I‚
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # üéñ Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
