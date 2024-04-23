@@ -102,7 +102,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 * 2019 **National Third Prize**, <a herf="http://ucasstar.sie.ac.cn"> Chinese Academy of Sciences University (UCAS) Cup Innovation and Entrepreneurship Competition</a>
 * 2018 **Outstanding Graduates of Shandong Province (<font face="楷体">山东省优秀毕业生</font>)**
 * 2018 **Outstanding Graduates of Shandong University of Sicence and Technology (<font face="楷体">山东科技大学优秀毕业生</font>)**
-* 2018 **Top-notch scientific and technological innovation talents of Shandong University of Science and Technology(<font face="楷体">山东科技大学科技创新拔尖人才</font>)**
+* 2018 **Top-notch scientific and technological innovation talents of Shandong University of Science and Technology (<font face="楷体">山东科技大学科技创新拔尖人才</font>)**
 * 2017 **National First Prize**, MathorCup College Student Mathematical Modeling Challenge
 * 2017 **National Second Prize**, "Certification Cup" Mathematics China Mathematical Modeling Network Challenge
 * 2017 **Honourable Metion**, Mathematical Contest In Modeling
