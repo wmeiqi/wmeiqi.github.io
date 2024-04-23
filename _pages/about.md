@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+#🌟 About Me
 
 I am **Meiqi Wu <font face="楷体">(武美奇)</font>**, a Ph.D. student at **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~wqwang?language=en">Prof. Weiqiang Wang</a>**. I received my master’s degree from **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA, 中国科学院自动化研究所)</a>** and **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow, IEEE Senior Member). 
 
@@ -86,6 +86,20 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 ## ☑️ Ongoing Research
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">PRCV 2024</div><img src='../../images/SOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='SOI'></span>
+
+**Target or Distractor? Rethinking Similar Object Interference in Single Object Tracking**<br>
+[Y. Wang](https://github.com/updateforever), [Shiyu Hu](https://huuuuusy.github.io/), D. Zhang, ***<font color=DarkRed>Meiqi Wu</font>***, [T. Yao](http://tingyao.deepfun.club/), [Y. Wang](https://scholar.google.com/citations?user=3nMDEBYAAAAJ), [L. Chen](https://sie.bit.edu.cn/szdw/jsml/ldjsyjsj/zgzcl/06c26b3ebaae4db981aaa388c660c8b5.htm), [X. Zhao](https://www.xinzhaoai.com/) <br>
+*[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (CCF-B Journal, IF=8.4, Under Review)*<br>
+📌 Visual Object Tracking 📌 Similar Object Interference 📌 Data Mining<br>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">TCSVT 2024</div><img src='../../images/SOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -135,7 +149,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 <!-- # 📝 Software copyright -->
 
-# 🌟 Maintained Projects
+<!-- # 🌟 Maintained Projects -->
 
 # 🎖 Honors and Awards
 * 2019, 2020, 2021, 2022, 2023 **Merit Student of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学三好学生</font>)**
