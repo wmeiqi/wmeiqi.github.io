@@ -152,9 +152,9 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 # 📖 Educations
 
 * **2021.09 -** : Ph.D. in [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/)
-- **Major:** Computer Applied Technology
-- **Supervisor:** [Prof. Weiqiang Wang](https://people.ucas.edu.cn/~wqwang) (ACM Member, IEEE Member)
-- **Thesis Title:** Researches of Video-based Air-Writing Dataset Construction and Recognition Algorithm
+** **Major:** Computer Applied Technology
+** **Supervisor:** [Prof. Weiqiang Wang](https://people.ucas.edu.cn/~wqwang) (ACM Member, IEEE Member)
+** **Thesis Title:** Researches of Video-based Air-Writing Dataset Construction and Recognition Algorithm
 
 * **2018.09 - 2021.06** : M.S. in [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/) and [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/)
 - **Major:** Computer Applied Technology
