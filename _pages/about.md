@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-#🌟 About Me
+# 🌟 About Me
 
 I am **Meiqi Wu <font face="楷体">(武美奇)</font>**, a Ph.D. student at **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~wqwang?language=en">Prof. Weiqiang Wang</a>**. I received my master’s degree from **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA, 中国科学院自动化研究所)</a>** and **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow, IEEE Senior Member). 
 
