@@ -97,6 +97,10 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+# 📝 Patent
+
+# 📝 Software copyright
+
 # 🎖 Honors and Awards
 * 2019, 2020, 2021, 2022, 2023 **Merit Student of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学三好学生</font>)**
 * 2019 **National Third Prize**, <a herf="http://ucasstar.sie.ac.cn"> Chinese Academy of Sciences University (UCAS) Cup Innovation and Entrepreneurship Competition</a>
