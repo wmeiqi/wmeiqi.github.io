@@ -38,13 +38,27 @@ My research interest includes computer vision and human-computer interaction. I‚
 
 # üìù Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/AWCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='AWCV'></span>
+  
+**Finger in Camera Speaks Everything: Unconstrained Air-Writing for Real-World**
+
+**Meiqi Wu**(https://github.com/wmeiqi), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Yuanqiang Cai](https://teacher.bupt.edu.cn/caiyuanqiang/zh_CN/index.htm), [Shiyu Hu](https://huuuuusy.github.io/), [Yuzhong Zhao](https://callsys.github.io/zhaoyuzhong.github.io-main/), [Weiqiang Wang](https://people.ucas.ac.cn/~wqwang?language=en)
+
+TCSVT 2024 (CCF-B Journal, IF=8.4): **[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)**<br>
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/DTLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
   
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
 
-**Xuchen Li**, [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://github.com/wmeiqi), Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+[Xuchen Li](https://xuchen-li.github.io/), [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), **Meiqi Wu**(https://github.com/wmeiqi), Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
 </div>
@@ -56,7 +70,7 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
   
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
-[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, **Meiqi Wu**(https://github.com/wmeiqi), [Xiaokun Feng](https://github.com/XiaokunFeng), [Xuchen Li](https://xuchen-li.github.io/), [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/MGIT.pdf)]
