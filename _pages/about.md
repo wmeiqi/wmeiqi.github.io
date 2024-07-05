@@ -29,7 +29,7 @@ My research interest includes computer vision and human-computer interaction. I�
 
 
 # 🔥 News
-- **2024.06**:&nbsp;🎉🎉  One [**paper**](https://github.com/wmeiqi/VS-LLM) has been accepted by the 7th Chinese Conference on Pattern Recognition and Computer Vision (PRCV, CCF-C Conference).
+- **2024.06**:&nbsp;🎉🎉 One [**paper**](https://github.com/wmeiqi/VS-LLM) has been accepted by the 7th Chinese Conference on Pattern Recognition and Computer Vision (PRCV, CCF-C Conference).
 - **2024.04**:&nbsp;📣📣 We presented our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extended a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
 - **2024.04**:&nbsp;🎉🎉 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
 - **2024.04**:&nbsp;🎉🎉 One first author paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, CCF-B Journal, IF=8.4).
@@ -41,9 +41,8 @@ My research interest includes computer vision and human-computer interaction. I�
 
 ## ✅ Acceptance
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">PRCV 2024</div><img src='../../images/sketch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../../images/sketch1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 <span class='anchor' id='SOI'></span>
 
 **VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**<br>
