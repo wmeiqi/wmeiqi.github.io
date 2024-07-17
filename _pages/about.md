@@ -130,6 +130,13 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 -->
 
+# 📝 Reviewer
+T-ASE, IEEE Transactions on Automation Science and Engineering [Link] 
+
+ICPR, International Conference on Pattern Recognition [Link]
+
+
+
 # 📝 Patents
 * **A psychological sandbox analysis method and system**<br>
   (一种心理沙盘分析方法和系统)<br>
