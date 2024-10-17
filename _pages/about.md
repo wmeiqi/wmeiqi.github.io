@@ -182,9 +182,9 @@ ICPR, International Conference on Pattern Recognition [Link]
 
 <!-- # 🌟 Maintained Projects -->
 
-# 🌟 Reviewer
+<!-- # 🌟 Reviewer
 T-ASE, IEEE Transactions on Automation Science and Engineering [[Link](https://www.ieee-ras.org/publications/t-ase)]
-ICPR, International Conference on Pattern Recognition [[Link](https://icpr2024.org/)]
+ICPR, International Conference on Pattern Recognition [[Link](https://icpr2024.org/)] -->
 
 # 🎖 Honors and Awards
 * 2019, 2020, 2021, 2022, 2023 **Merit Student of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学三好学生</font>)**
