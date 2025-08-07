@@ -37,7 +37,7 @@ I am **Meiqi Wu <font face="楷体">(武美奇)</font>**, a Ph.D. student at **<
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../../images/VMBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class='anchor' id='SOI'></span>
+<span class='anchor' id='VideoGeneration'></span>
 
 **VMBench: A Benchmark for Perception-Aligned Video Motion Generation**<br>
 Xinran Ling<sup>*</sup>, Chen Zhu<sup>*</sup>, ***<font color=DarkRed>Meiqi Wu</font><sup>*</sup>***, Hangyu Li, Xiaokun Feng, Cundian Yang, Aiming Hao, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu <br>
@@ -46,6 +46,47 @@ Xinran Ling<sup>*</sup>, Chen Zhu<sup>*</sup>, ***<font color=DarkRed>Meiqi Wu</
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 Highlight</div><img src='../../images/ATCTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='SOI'></span>
+
+**ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking**<br>
+Xiaokun Feng, Shiyu Hu, Xuchen Li, Dailing Zhang, ***<font color=DarkRed>Meiqi Wu</font>***, Jing Zhang, Xiaotang Chen, Kaiqi Huang <br>
+*[International Conference on Computer Vision, ICCV 2025](https://iccv.thecvf.com/) (CCF-A Conference)*<br>
+📌 Visual Language Tracking  📌 Adaptive Prompts <br>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='../../images/CTVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='SOI'></span>
+
+**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
+Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, ***<font color=DarkRed>Meiqi Wu</font>***, Jing Zhang, Xiaotang Chen, Kaiqi Huang <br>
+*[2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) (CCF-B Conference)*<br>
+📌 Visual Language Tracking  📌 Adaptive Prompts <br>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../../images/CSTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='SOI'></span>
+
+**CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features**<br>
+Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, ***<font color=DarkRed>Meiqi Wu</font>***, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
+*[Forty-Second International Conference on Machine Learning](http://icml.cc/) (CCF-A Conference)*<br>
+📌 Visual Object Tracking  📌 Multimodal Tracking <br>
+
+</div>
+</div>
+
+
 
 
 
