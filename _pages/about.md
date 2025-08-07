@@ -40,7 +40,7 @@ I am **Meiqi Wu <font face="楷体">(武美奇)</font>**, a Ph.D. student at **<
 <span class='anchor' id='SOI'></span>
 
 **VMBench: A Benchmark for Perception-Aligned Video Motion Generation**<br>
-Xinran Ling<sup>*, Chen Zhu<sup>*, ***<font color=DarkRed>Meiqi Wu<sup>*</font>***, Hangyu Li, Xiaokun Feng, Cundian Yang, Aiming Hao, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu <br>
+Xinran Ling<sup>*</sup>, Chen Zhu<sup>*</sup>, ***<font color=DarkRed>Meiqi Wu</font><sup>*</sup>***, Hangyu Li, Xiaokun Feng, Cundian Yang, Aiming Hao, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu <br>
 *[International Conference on Computer Vision, ICCV 2025](https://iccv.thecvf.com/) (CCF-A Conference)*<br>
 📌 Video Generation 📌 Evaluation 📌 Human Perceptual Alignment <br>
 
