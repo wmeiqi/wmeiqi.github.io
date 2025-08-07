@@ -19,13 +19,7 @@ redirect_from:
 
 # 🌟 About Me
 
-I am **Meiqi Wu <font face="楷体">(武美奇)</font>**, a Ph.D. student at **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~wqwang?language=en">Prof. Weiqiang Wang</a>**. I received my master’s degree from **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA, 中国科学院自动化研究所)</a>** and **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow, IEEE Senior Member). 
-
-
-<!-- I’m currently a Ph.D. student in Computer Science advised by Prof. Weiqiang Wang, at CVMT Laboratory, School of Computer Science and Technology, University of Chinese Academy of Sciences. I’m always open to possible cooperation or visiting opportunities. If you are interested, please contact me by email. -->
-
-My research interest includes computer vision and human-computer interaction. I’m always open to possible cooperation or visiting opportunities. If you are interested, please contact me by email.
-<!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+I am **Meiqi Wu <font face="楷体">(武美奇)</font>**, a Ph.D. student at **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow, IEEE Senior Member). I received my master’s degree from **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA, 中国科学院自动化研究所)</a>** and **<a herf="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS, 中国科学院大学)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow, IEEE Senior Member). 
 
 
 # 🔥 News
@@ -41,6 +35,20 @@ My research interest includes computer vision and human-computer interaction. I�
 
 <!-- ## ✅ Acceptance-->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../../images/VMBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='SOI'></span>
+
+**VMBench: A Benchmark for Perception-Aligned Video Motion Generation**<br>
+Xinran Ling<sup>*, Chen Zhu<sup>*, ***<font color=DarkRed>Meiqi Wu<sup>*</font>***, Hangyu Li, Xiaokun Feng, Cundian Yang, Aiming Hao, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu <br>
+*[International Conference on Computer Vision, ICCV 2025](https://iccv.thecvf.com/) (CCF-A Conference)*<br>
+📌 Video Generation 📌 Evaluation 📌 Human Perceptual Alignment <br>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../../images/sketch1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='SOI'></span>
@@ -52,6 +60,9 @@ My research interest includes computer vision and human-computer interaction. I�
 
 </div>
 </div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/AWCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
