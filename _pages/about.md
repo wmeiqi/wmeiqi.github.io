@@ -61,19 +61,6 @@ Xiaokun Feng, Shiyu Hu, Xuchen Li, Dailing Zhang, ***<font color=DarkRed>Meiqi W
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='../../images/CTVLT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span class='anchor' id='SOI'></span>
-
-**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
-Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, ***<font color=DarkRed>Meiqi Wu</font>***, Jing Zhang, Xiaotang Chen, Kaiqi Huang <br>
-*[2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) (CCF-B Conference)*<br>
-📌 Visual Language Tracking  📌 Adaptive Prompts <br>
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../../images/CSTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='SOI'></span>
@@ -86,6 +73,18 @@ Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, ***<font color=DarkRed>Meiqi W
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='../../images/CTVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='SOI'></span>
+
+**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
+Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, ***<font color=DarkRed>Meiqi Wu</font>***, Jing Zhang, Xiaotang Chen, Kaiqi Huang <br>
+*[2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/) (CCF-B Conference)*<br>
+📌 Visual Language Tracking  📌 Adaptive Prompts <br>
+
+</div>
+</div>
 
 
 
